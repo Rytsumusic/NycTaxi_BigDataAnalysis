@@ -1,2 +1,2 @@
 # NycTaxi_BigDataAnalysis
-A anaylsis on Big data taken from New York Taxi's
+A anaylsis on Big data taken from New York Taxis
