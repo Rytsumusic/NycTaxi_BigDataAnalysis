@@ -1,7 +1,2 @@
 # NycTaxi_BigDataAnalysis
-# NycTaxi_BigDataAnalysis
-# NycTaxi_BigDataAnalysis
-# NycTaxi_BigDataAnalysis
-# NycTaxi_BigDataAnalysis
-# NycTaxi_BigDataAnalysis
-# NycTaxi_BigDataAnalysis
+A anaylsis on Big data taken from New York Taxi's
